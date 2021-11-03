@@ -1,0 +1,10 @@
+[package]
+name = "puppeteer"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bytes = "1.1.0"
+
+[dependencies.puppeteer-codegen]
+path = "puppeteer-codegen"
