@@ -4,7 +4,7 @@ Simple macro-based packet system for **Rust**.
 ## Installation
 ```toml
 [dependencies.puppeteer]
-git = "https://github.com/sy1ntexx/puppeteer
+git = "https://github.com/sy1ntexx/puppeteer"
 ```
 
 ## Usage
